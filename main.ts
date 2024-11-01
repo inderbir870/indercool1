@@ -36,4 +36,5 @@ basic.forever(function () {
         . . # # .
         `)
     basic.showString("YAY")
+    basic.showString("Prt 2... You win")
 })

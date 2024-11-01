@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="mEd?x~B|kd/`-I$JBx_3" x="-426" y="-35"><statement name="HANDLER"><block type="device_show_leds" id="1(YP=RP;xhwQqKd60351"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="mEd?x~B|kd/`-I$JBx_3" x="39" y="50"><statement name="HANDLER"><block type="device_show_leds" id="1(YP=RP;xhwQqKd60351"><field name="LEDS">`
         . . # . . 
         . . . . . 
         . . . . . 
@@ -28,4 +28,4 @@
         . . . # . 
         . . . # . 
         . . # # .
-        `</field><next><block type="device_print_message" id="scNf}z|[)F!edOXOy0mX"><value name="text"><shadow type="text" id="eCL%ukT%]3B1qA.po}tX"><field name="TEXT">YAY</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_print_message" id="scNf}z|[)F!edOXOy0mX"><value name="text"><shadow type="text" id="eCL%ukT%]3B1qA.po}tX"><field name="TEXT">YAY</field></shadow></value><next><block type="device_print_message" id="mj4EF{^13w*dqCKiPQkI"><value name="text"><shadow type="text" id="{3{[j^(O5U{D{i]AnPO`"><field name="TEXT">Prt 2... You win</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
